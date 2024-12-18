@@ -35,8 +35,8 @@
 #### 9. お問い合わせ
 本拡張機能についてのプライバシーに関する質問や疑問がある場合は、以下の連絡先までご連絡ください。
 
-mel
-Twitter : @m_2g_me
+mel <br>
+Twitter : @m_2g_me <br>
 Mail : urkwobe@gmail.com
 
 
